@@ -1,4 +1,5 @@
 # spaced_repetition_learning_system
+<<<<<<< HEAD
 
 A new Flutter project.
 
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+special project
+>>>>>>> acc6a4920f492d0326c89328dadec3d646b4230c
